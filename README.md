@@ -12,11 +12,15 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - [Contributing](#contributing)
 - [License](#license)
 
+- [Another Table of content]
+
 ## Team Members
 - **Alice Johnson** - [GitHub Profile](https://github.com/alicej)
 - **Bob Smith** - [GitHub Profile](https://github.com/bobsmith)
 - **Charlie Brown** - [GitHub Profile](https://github.com/charliebrown)
 - **Dana Lee** - [GitHub Profile](https://github.com/danalee)
+
+- Another Team Member
 
 ## Project Goals
 - Design a responsive website that works on various devices
@@ -30,10 +34,13 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - JavaScript
 - Bootstrap (or any other framework)
 - Git & GitHub for version control
+- Another Technology 1
+- Another Technology 2
 
 ## Installation Instructions
 To view the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+
+## Another Table of content
    git clone https://github.com/yourusername/web-design-class-project.git

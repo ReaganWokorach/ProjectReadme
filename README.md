@@ -12,7 +12,7 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - [Contributing](#contributing)
 - [License](#license)
 
-- [Another Table of content]
+- [Another Table of content](#another-technology-used)
 
 ## Team Members
 - **Alice Johnson** - [GitHub Profile](https://github.com/alicej)
@@ -41,6 +41,9 @@ Welcome to our Web Design class project! This repository contains the collaborat
 To view the project locally, follow these steps:
 
 1. Clone the repository:
+2. Clone using SSH key
+3. Clone using the HTTP key
+4. Clone using the GitHub CLI
 
 ## Another Table of content
    git clone https://github.com/yourusername/web-design-class-project.git

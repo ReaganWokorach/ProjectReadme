@@ -12,6 +12,7 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - [Contributing](#contributing)
 - [License](#license)
 - [Another Table of content](#another-technology-used)
+- [Last Table Of Content](#last-table)
 
 ## Team Members
 - **Alice Johnson** - [GitHub Profile](https://github.com/alicej)
@@ -20,7 +21,7 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - **Dana Lee** - [GitHub Profile](https://github.com/danalee)
 
 - **Another Team Member** [The text is bold](bold-text)
-- *Member 2* -(the-text-is-italic)
+- *Member 2* -[Italic](the-text-is-italic)
 
 ## Project Goals
 - Design a responsive website that works on various devices
@@ -47,3 +48,14 @@ To view the project locally, follow these steps:
 
 ## Another Table of content
    git clone https://github.com/yourusername/web-design-class-project.git
+
+## Last Table Of Content
+Here are the lists of members who have participated in the project
+#### Members
+- Reagan
+- Lubega
+- Rehema
+- John
+- Ivan
+- Martin
+[Links to their GitHub Accounts](link-here)

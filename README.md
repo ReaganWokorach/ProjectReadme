@@ -11,7 +11,6 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
 - [Another Table of content](#another-technology-used)
 
 ## Team Members
@@ -20,7 +19,8 @@ Welcome to our Web Design class project! This repository contains the collaborat
 - **Charlie Brown** - [GitHub Profile](https://github.com/charliebrown)
 - **Dana Lee** - [GitHub Profile](https://github.com/danalee)
 
-- Another Team Member
+- **Another Team Member** [The text is bold](bold-text)
+- *Member 2* -(the-text-is-italic)
 
 ## Project Goals
 - Design a responsive website that works on various devices

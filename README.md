@@ -1,12 +1,39 @@
-# WEB DESIGN PROJECT AT CAVENDISH
-This is the project that we are working on and it's supposed to be submitted before the 7th of October. The thing is we don't have much time now to complete the assignment.
-There are a lot of people working on this project.
+# Web Design Class Project
 
-## NAMES OF PARTICIPANTS
-###### Reagan Wokorach
-###### Erias Lubega
-###### Rehema
-###### Ivan
+## Project Overview
+Welcome to our Web Design class project! This repository contains the collaborative work of our team to create a visually appealing and functional website. Our goal is to showcase our skills in HTML, CSS, and JavaScript while adhering to modern web design principles.
 
-### JUST CHEKCING IF HEADING 3 IS WORKING.
-This is supposed to be under the heading for 3
+## Table of Contents
+- [Team Members](#team-members)
+- [Project Goals](#project-goals)
+- [Technologies Used](#technologies-used)
+- [Installation Instructions](#installation-instructions)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Team Members
+- **Alice Johnson** - [GitHub Profile](https://github.com/alicej)
+- **Bob Smith** - [GitHub Profile](https://github.com/bobsmith)
+- **Charlie Brown** - [GitHub Profile](https://github.com/charliebrown)
+- **Dana Lee** - [GitHub Profile](https://github.com/danalee)
+
+## Project Goals
+- Design a responsive website that works on various devices
+- Implement best practices in web accessibility
+- Enhance user experience through intuitive navigation
+- Showcase individual contributions and skills
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap (or any other framework)
+- Git & GitHub for version control
+
+## Installation Instructions
+To view the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/web-design-class-project.git
